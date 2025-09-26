@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/fqzGODJFWPbL.png">
 </div>
 
-Hydra is a powerful open-source tool for password cracking and brute-force testing. This Skill Tree offers a comprehensive learning path to master Hydra. It’s perfect for cybersecurity and penetration testing beginners, providing a structured roadmap to understand brute-force attacks, password enumeration, and authentication testing. Through practical, non-video courses and hands-on exercises in a penetration testing playground, you’ll gain real-world experience in using Hydra to test system security and identify weak credentials.
+Learn Hydra, a powerful open-source tool for password cracking and brute-force testing. This Learning Path offers comprehensive Hydra courses designed for cybersecurity and penetration testing beginners. It provides a structured roadmap to understand brute-force attacks, password enumeration, and authentication testing. Through practical, non-video courses and hands-on exercises in a penetration testing playground, you will gain real-world experience using Hydra to test system security and identify weak credentials.
 
 |   Index | Name                                                                                        | Difficulty   | Repo                                                                     | Practice                                                                 |
 |---------|---------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
