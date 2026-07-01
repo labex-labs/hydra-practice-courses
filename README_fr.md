@@ -1,23 +1,27 @@
-# Practice Hydra Cours de Programmation
+# Hydra Practice Courses
 
-## Langues
+**Langues:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Русский](README_ru.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇷🇺 [Русский](README_ru.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/opfL1Ca0Wdha.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/fr/learn/hydra">
+    <img width="128" src="https://file.labex.io/upload/u/1991/opfL1Ca0Wdha.png" alt="Hydra">
+  </a>
+</p>
 
 Apprenez Hydra, un puissant outil open-source pour le cassage de mots de passe et les tests par force brute. Ce parcours d'apprentissage propose des cours Hydra complets conçus pour les débutants en cybersécurité et en tests d'intrusion. Il offre une feuille de route structurée pour comprendre les attaques par force brute, l'énumération de mots de passe et les tests d'authentification. Grâce à des cours pratiques non-vidéo et des exercices pratiques dans un environnement de test d'intrusion, vous acquerrez une expérience concrète de l'utilisation d'Hydra pour tester la sécurité des systèmes et identifier les identifiants faibles.
 
-|   Index | Nom                                                                                                           | Difficulté   | Repo                                                                    | Pratique                                                                          |
-|---------|---------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|       1 | [Hydra pour les débutants](https://labex.io/fr/courses/hydra-for-beginners)                                   | Débutant     | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 Commencer le Lab](https://labex.io/fr/courses/hydra-for-beginners)             |
-|       2 | [Laboratoires d'attaques en cybersécurité Hydra](https://labex.io/fr/courses/hydra-cybersecurity-attack-labs) | Débutant     | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 Commencer le Lab](https://labex.io/fr/courses/hydra-cybersecurity-attack-labs) |
+[Explorer les cours sur LabEx](https://labex.io/fr/learn/hydra)
 
-## Plus
+|   Index | Cours                                                                                                         | Difficulté    | Dépôt                                                                    | Pratique                                                                           |
+|---------|---------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+|       1 | [Hydra pour les débutants](https://labex.io/fr/courses/hydra-for-beginners)                                   | Débutant      | [Repo](https://github.com/labex-labs/hydra-for-beginners)                | [Commencer le lab](https://labex.io/fr/courses/hydra-for-beginners)                |
+|       2 | [Laboratoires d'attaques en cybersécurité Hydra](https://labex.io/fr/courses/hydra-cybersecurity-attack-labs) | Débutant      | [Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs)    | [Commencer le lab](https://labex.io/fr/courses/hydra-cybersecurity-attack-labs)    |
+|       3 | [Attaques côté client et authentification](https://labex.io/fr/courses/client-side-attacks-authentication)    | Intermédiaire | [Repo](https://github.com/labex-labs/client-side-attacks-authentication) | [Commencer le lab](https://labex.io/fr/courses/client-side-attacks-authentication) |
+|       4 | [Sécurité et audit basés sur l'hôte](https://labex.io/fr/courses/host-based-security-auditing)                | Intermédiaire | [Repo](https://github.com/labex-labs/host-based-security-auditing)       | [Commencer le lab](https://labex.io/fr/courses/host-based-security-auditing)       |
 
-- 🔗 [Hydra Tutoriels Gratuits](https://github.com/labex-labs/hydra-free-tutorials)
-- 🔗 [Projets de Programmation Formidables](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cours de Programmation Formidables](https://github.com/labex-labs/awesome-programming-courses)
+[Voir plus sur LabEx](https://labex.io/fr/learn/hydra)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 

@@ -1,23 +1,27 @@
-# Practice Hydra 编程课程
+# Hydra Practice Courses
 
-## 支持语言
+**支持语言:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Русский](README_ru.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇷🇺 [Русский](README_ru.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/opfL1Ca0Wdha.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/zh/learn/hydra">
+    <img width="128" src="https://file.labex.io/upload/u/1991/opfL1Ca0Wdha.png" alt="Hydra">
+  </a>
+</p>
 
 学习 Hydra，一个功能强大的开源密码破解和暴力测试工具。本学习路径提供专为网络安全和渗透测试初学者设计的全面 Hydra 课程。它提供了一个结构化的路线图，帮助您理解暴力破解攻击、密码枚举和身份验证测试。通过实用的非视频课程和渗透测试演练场中的动手练习，您将获得使用 Hydra 测试系统安全性并识别弱凭证的真实世界经验。
 
-|   序号 | 名称                                                                             | 难度   | Repo                                                                    | 练习                                                                    |
-|------|--------------------------------------------------------------------------------|------|-------------------------------------------------------------------------|-----------------------------------------------------------------------|
-|    1 | [Hydra 初学者指南](https://labex.io/zh/courses/hydra-for-beginners)                 | 初级   | [🔗 Repo](https://github.com/labex-labs/hydra-for-beginners)             | [🚀 开始实验](https://labex.io/zh/courses/hydra-for-beginners)             |
-|    2 | [Hydra 网络安全攻击实验室](https://labex.io/zh/courses/hydra-cybersecurity-attack-labs) | 初级   | [🔗 Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs) | [🚀 开始实验](https://labex.io/zh/courses/hydra-cybersecurity-attack-labs) |
+[在 LabEx 浏览课程](https://labex.io/zh/learn/hydra)
 
-## 更多
+|   序号 | 课程                                                                             | 难度   | 仓库                                                                       | 练习                                                                     |
+|------|--------------------------------------------------------------------------------|------|--------------------------------------------------------------------------|------------------------------------------------------------------------|
+|    1 | [Hydra 初学者指南](https://labex.io/zh/courses/hydra-for-beginners)                 | 初级   | [Repo](https://github.com/labex-labs/hydra-for-beginners)                | [开始实验](https://labex.io/zh/courses/hydra-for-beginners)                |
+|    2 | [Hydra 网络安全攻击实验室](https://labex.io/zh/courses/hydra-cybersecurity-attack-labs) | 初级   | [Repo](https://github.com/labex-labs/hydra-cybersecurity-attack-labs)    | [开始实验](https://labex.io/zh/courses/hydra-cybersecurity-attack-labs)    |
+|    3 | [客户端攻击与身份验证](https://labex.io/zh/courses/client-side-attacks-authentication)   | 中级   | [Repo](https://github.com/labex-labs/client-side-attacks-authentication) | [开始实验](https://labex.io/zh/courses/client-side-attacks-authentication) |
+|    4 | [基于主机的安全与审计](https://labex.io/zh/courses/host-based-security-auditing)         | 中级   | [Repo](https://github.com/labex-labs/host-based-security-auditing)       | [开始实验](https://labex.io/zh/courses/host-based-security-auditing)       |
 
-- 🔗 [Hydra 免费教程](https://github.com/labex-labs/hydra-free-tutorials)
-- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
+[在 LabEx 查看更多](https://labex.io/zh/learn/hydra)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
